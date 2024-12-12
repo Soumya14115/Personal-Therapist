@@ -25,7 +25,7 @@ A user-friendly chatbot designed to assist users in managing their mental well-b
 ---
 
 ## 🎨 Demo
-![Chatbot Screenshot](https://via.placeholder.com/800x400?text=Mental+Therapist+Chatbot+Demo)
+![Chatbot Screenshot](https://github.com/user-attachments/assets/8300ce22-7c72-4618-b727-6526dfbb9e66)
 
 *Screenshot of the chatbot in action*
 
