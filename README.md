@@ -71,7 +71,7 @@ The chatbot recognizes the following keywords to provide tailored responses:
 | `journaling`             | Benefits of journaling for mental clarity |
 | `default`                | Default response for unrecognized inputs  |
 
-For a complete list of keys and their descriptions, refer to the [Key Reference](#).
+For a complete list of keys and their descriptions, refer to the [Key Reference](https://github.com/Soumya14115/Personal-Therapist/blob/main/Text.md).
 
 ---
 
